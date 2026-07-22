@@ -12,9 +12,6 @@ Optimizing my personal projects and building interactive web interfaces.Open-sou
 ![](https://streak-stats.demolab.com/?user=Moroni-cc&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Moroni-cc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Moroni-cc&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
